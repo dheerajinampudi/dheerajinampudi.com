@@ -1,2 +1,0 @@
-# dheerajinampudi.com
-dheeraj website
