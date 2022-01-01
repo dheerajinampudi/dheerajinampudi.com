@@ -13,8 +13,8 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About Me</Link></h2>
           <p>
-          Dheeraj Inampudi's personal website. India based Manchester Math graduate, "
-    + 'CTO of propellor.ai, and a certified AWS Solution Architect
+          Dheeraj Inampudi's personal website. India based Manchester Math graduate, 
+          CTO of propellor.ai, and a certified AWS Solution Architect
           </p>
         </div>
       </header>
