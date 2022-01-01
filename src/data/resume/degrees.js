@@ -6,8 +6,8 @@ const degrees = [
     year: 2016,
   },
   {
-    school: 'Adikavi Nannaya University',
-    degree: 'M.S. Mathematics and Computer Science, India',
+    school: 'Adikavi Nannaya University, India',
+    degree: 'M.S. Mathematics and Computer Science',
     link: 'https://aknu.edu.in/',
     year: 2014,
   },
