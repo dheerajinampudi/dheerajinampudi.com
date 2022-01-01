@@ -10,37 +10,37 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/mldInampudi',
+    link: 'https://github.com/dheerajsharma21',
     label: 'Github',
     icon: faGithub,
   },
   {
-    link: 'https://facebook.com/md',
+    link: 'https://facebook.com/dheerajsharma21',
     label: 'Facebook',
     icon: faFacebookF,
   },
   {
-    link: 'https://www.instagram.com/dInampudisaurus/',
+    link: 'https://www.instagram.com/dheeraj.inampudi/',
     label: 'Instagram',
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldInampudi',
+    link: 'https://www.linkedin.com/in/dheeraj21/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/michael-d-Inampudi',
+    link: 'https://angel.co/u/dheeraj-inampudi',
     label: 'Angel List',
     icon: faAngellist,
   },
   {
-    link: 'https://twitter.com/dInampudisaurus',
+    link: 'https://twitter.com/IrkDheeraj',
     label: 'Twitter',
     icon: faTwitter,
   },
   {
-    link: 'mailto:michael.l.dInampudi@gmail.com',
+    link: 'mailto:irk.nampudi@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },
