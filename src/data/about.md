@@ -11,7 +11,7 @@ Hands-on ability to direct complex projects from concept to deployment. Versatil
 • Operationalizing machine learning for the organization
 •Programming languages for Data Science: Python and scala.Visualization: DOMO and Tableau
 •6+ years of Mathematics and Computer Science academics which includes statistical analysis, linear transformations, probability and C++ required for Analytics purposes.
-[dheeraj site](http://dheerajinampudi.com/)
+[dheeraj site](https://dheerajinampudi.com/)
 
 # Currently
 
