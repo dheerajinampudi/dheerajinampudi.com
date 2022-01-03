@@ -4,16 +4,13 @@
 - I am the CTO of Propellor where I am responsible for building serverless
 application for our analytics engine propellor.ai. We use around 42+ AWS services to keep our system up and running.
 I am a certified AWS solution architect as well.
-
 - Prior to that I worked as a Data Scientist at Thinkbumblebee Analytics (parent company of propellor)
 where I worked on 16+ different data science project in different domain industries such QSR, IoT, Social media and Retail.
-
 - I also worked as a product manager and associate engineer at Stratfit where I learned product development and algoritm development
  for real use cases like fitness tracking and prediction.
-
 - Images below summarize my role in a nutshell. Scary but true
 
- ![CTO](CTO_role-min.png "CTO Role")
+ ![CTO](https://s3.ap-south-1.amazonaws.com/public.dheerajinampudi.com/CTO_role-min.jpg)
 
 # Currently
 
