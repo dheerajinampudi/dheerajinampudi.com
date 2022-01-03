@@ -1,8 +1,8 @@
 # Personal Website
 
-See: [inampudi.com](https://inampudi.com).
+See: [dheerajinampudi.com](https://dheerajinampudi.com).
 
-My personal website. An [MIT](https://github.com/inampudi/personal-site/blob/main/LICENSE) licensed, simple, easily modifiable, statically-exportable [React](https://reactjs.org/), [Jamstack](https://jamstack.org/) application that deploys automatically for free using [github pages](https://pages.github.com/). Built using modern javascript, based on [create-react-app](https://github.com/facebook/create-react-app) with [React-Router](https://reactrouter.com/), SCSS, [github actions](https://github.com/features/actions), and many other useful technologies.
+My personal website. An [MIT](https://github.com/dheerajsharma21/dheerajinampudi.com.git/blob/main/LICENSE) licensed, simple, easily modifiable, statically-exportable [React](https://reactjs.org/), [Jamstack](https://jamstack.org/) application that deploys automatically for free using [github pages](https://pages.github.com/). Built using modern javascript, based on [create-react-app](https://github.com/facebook/create-react-app) with [React-Router](https://reactrouter.com/), SCSS, [github actions](https://github.com/features/actions), and many other useful technologies.
 
 ## Adapting this Project
 
@@ -21,7 +21,7 @@ Tested with: [node](https://nodejs.org/) >= v12 and optional [nvm](https://githu
 To download the repository and install dependencies, run the following commands:
 
 ```bash
-git clone git://github.com/inampudi/personal-site.git # replace [inampudi] with your github username if you fork first.
+git clone git://github.com/dheerajinampudi.com.git # replace [inampudi] with your github username if you fork first.
 cd personal-site
 nvm install # this is optional - make sure you're running >= node 12 with `node --version`
 npm install
