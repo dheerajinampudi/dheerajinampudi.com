@@ -1,12 +1,16 @@
 
 # Intro
 
-- I am a Math graduate from University of Manchester. Responsible for developing the analytics engine propellor.ai.
+- Hello! My name is Dheeraj and I enjoy building things on AWS. My interest in AWS started, when i ran a matlab
+simulation on EC2 in 2014 at University of Manchester when working on Master Thesis.
+- Fast-forward to today, and I’ve had the privilege of working at a Fitness company on developing algorithms, running analytics
+, working as a data scientist and now as a CTO of an analytics product called Propellor.
 - At Propellor, We use around 42+ AWS services to keep our system up and running.
 - I am a certified AWS solution architect as well.
-- Prior to that I worked as a Data Scientist at Thinkbumblebee Analytics (parent company of propellor)
-where I worked on 16+ different data science project in different domain industries such QSR, IoT, Social media and Retail.
-- I also worked as a product manager and associate engineer at Stratfit where I learned product development and algoritm development
+- As a Data Scientist, I worked on 16+ different data science project in different domain industries such QSR, IoT,
+Social media and Retail.
+- I also worked as a product manager and associate engineer at Stratfit where I learned
+product development and algoritm development
  for real use cases like fitness tracking and prediction.
 - Images below summarize my role in a nutshell. Scary but true
 
@@ -14,7 +18,7 @@ where I worked on 16+ different data science project in different domain industr
 
 # Currently
 
-I am the CTO of Propellor.ai where I am responsible for Building technology capabilities, platforms and products for the Company. My major responsiblities include
+I am the CTO of Propellor.ai. My major responsiblities includes the follwing
 
 ## Platform and Product responsibilites
 
