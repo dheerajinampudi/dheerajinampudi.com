@@ -1,16 +1,16 @@
 
 # Intro
 
-- I am the CTO of Propellor where I am responsible for building serverless
-application for our analytics engine propellor.ai. We use around 42+ AWS services to keep our system up and running.
-I am a certified AWS solution architect as well.
+- I am a Math graduate from University of Manchester. Responsible for developing the analytics engine propellor.ai.
+- At Propellor, We use around 42+ AWS services to keep our system up and running.
+- I am a certified AWS solution architect as well.
 - Prior to that I worked as a Data Scientist at Thinkbumblebee Analytics (parent company of propellor)
 where I worked on 16+ different data science project in different domain industries such QSR, IoT, Social media and Retail.
 - I also worked as a product manager and associate engineer at Stratfit where I learned product development and algoritm development
  for real use cases like fitness tracking and prediction.
 - Images below summarize my role in a nutshell. Scary but true
 
- ![CTO](https://s3.ap-south-1.amazonaws.com/public.dheerajinampudi.com/CTO_role-min.jpg)
+![CTO](https://s3.ap-south-1.amazonaws.com/public.dheerajinampudi.com/CTO_role-min.jpg)
 
 # Currently
 
@@ -30,8 +30,6 @@ option
 - Lead the due diligence of all technology investments of the company
 - Lead the decisions on selection of different kinds of technologies, platforms,
 algorithms and analytics/technology products.
-
-[dheeraj site](https://dheerajinampudi.com/)
 
 ## Hiring engineers, developers and data scientists
 
@@ -69,7 +67,7 @@ build, test, and release software/products/platforms faster and in a more reliab
 adoption of new technology across the Company. Leverage these relationships in building
 new capabilities within the company.
 
-## I like
+# I like
 
 - Running
 - Skiing
@@ -78,22 +76,22 @@ new capabilities within the company.
 - Summer
 - [Books](https://www.goodreads.com/dheerajinampudi)
 
-## Origin
+# Origin
 
 - I am from Tanuku, Andhra Pradesh, India
 
-## Fun facts
+# Fun facts
 
 - I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
 
-## I dream of
+# I dream of
 
 - always finding inspiration.
 - enabling a brighter future.
 - doing better.
 - you not checking the commit history for earlier drafts of this file.
 
-## Websites from people I admire
+# Websites from people I admire
 
 - [Alex Peysakhovich](http://alexpeys.github.io/)
 
