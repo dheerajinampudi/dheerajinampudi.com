@@ -1,10 +1,11 @@
 
 # Intro
 
-- Hello! My name is Dheeraj and I enjoy building things on AWS. My interest in AWS started, when i ran a matlab
-simulation on EC2 in 2014 at University of Manchester when working on Master Thesis.
-- Fast-forward to today, and I’ve had the privilege of working at a Fitness company on developing algorithms, running analytics
-, working as a data scientist and now as a CTO of an analytics product called Propellor.
+- Hello! My name is Dheeraj and I enjoy building things on AWS. My interest in AWS started, when i first ran a matlab
+simulation on EC2 in 2014 at University of Manchester as part of my Master Thesis.
+- Fast-forward to today, I am a CTO of an analytics product Company, Propellor.ai. Prior to this,
+I’ve had the privilege of working at a Fitness Startup on developing training algorithms, setting up analytics practices
+, working as a data scientist for 3+ years.
 - At Propellor, We use around 42+ AWS services to keep our system up and running.
 - I am a certified AWS solution architect as well.
 - As a Data Scientist, I worked on 16+ different data science project in different domain industries such QSR, IoT,
