@@ -19,7 +19,7 @@ product development and algoritm development
 
 # Currently
 
-I am the CTO of Propellor.ai. My major responsiblities includes the follwing
+I am the CTO of Propellor.ai. My major responsiblities includes the following
 
 ## Platform and Product responsibilites
 

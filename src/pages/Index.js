@@ -23,6 +23,7 @@ const Index = () => (
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
+        read my <a href={'https://blog.dheerajinampudi.com/'} target="_blank" > Blog </a>,
         or <Link to="/contact">contact</Link> me.
       </p>
       
