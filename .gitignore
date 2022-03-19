@@ -2,3 +2,5 @@ node_modules
 build
 .DS_Store
 s3_deploy
+
+## git remote set-url origin https://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@github.com/dheerajsharma21/dheerajinampudi.com.git
