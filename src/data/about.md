@@ -1,19 +1,17 @@
 
 # Intro
 
-- Hello! My name is Dheeraj and I enjoy building things on AWS. My interest in AWS started, when i first ran a matlab
-simulation on EC2 in 2014 at University of Manchester as part of my Master Thesis.
-- Fast-forward to today, I am a CTO of an analytics product Company, Propellor.ai. Prior to this,
-I’ve had the privilege of working at a Fitness Startup on developing training algorithms, setting up analytics practices
-, working as a data scientist for 3+ years.
-- At Propellor, We use around 42+ AWS services to keep our system up and running.
-- I am a certified AWS solution architect as well.
-- As a Data Scientist, I worked on 16+ different data science project in different domain industries such QSR, IoT,
-Social media and Retail.
-- I also worked as a product manager and associate engineer at Stratfit where I learned
-product development and algoritm development
- for real use cases like fitness tracking and prediction.
-- Images below summarize my role in a nutshell. Scary but true
+- Hello there! My name is Dheeraj, and I adore creating things on Amazon Web Services. My fascination with
+AWS began when, as part of my Master's thesis at the University of Manchester in 2014, I conducted a matlab simulation on EC2.
+- Fast forward to present, and I am the CTO of Propellor.ai, an analytics product company.
+Prior to this, I had the pleasure of working for 3+years as a data scientist at a fitness startup,
+building training algorithms and establishing up analytics procedures.
+- We use roughly 42 AWS services at Propellor to keep our system up and operating.
+- I am a certified AWS Professional solution architect.
+- I worked on 16+ different data science projects as a Data Scientist in several domain areas such as QSR, IoT, Social Media, and Retail.
+- I also worked at Stratfit as a product manager and associate engineer,
+where I learnt about product development and algorithm development for real-world applications such as fitness tracking and prediction.
+- In a nutshell, the images below depict my role. It's frightening, but true.
 
 ![CTO](https://s3.ap-south-1.amazonaws.com/public.dheerajinampudi.com/CTO_role-min.jpg)
 
@@ -24,7 +22,8 @@ I am the CTO of Propellor.ai. My major responsiblities includes the following
 ## Platform and Product responsibilites
 
 - Oversee the day-to-day engineering efforts of the company targeted towards
-building capabilities, platforms and products for ThinkBumblebee. This includes all the development efforts involved in the development of PROPELLOR.
+building capabilities, platforms and products for ThinkBumblebee.
+This includes all the development efforts involved in the development of PROPELLOR.
 - Provide technical options to the delivery team in terms of technology, methodology,
 algorithms and tools
 - Be the Go-To person for all technical advice to the delivery team and the
@@ -56,7 +55,7 @@ platforms and products.
 
 ## Quality Assurance
 
-Put together bug testing, validation and overall quality assurance process across the
+- Put together bug testing, validation and overall quality assurance process across the
 company.
 
 ## DevOps
@@ -75,10 +74,9 @@ new capabilities within the company.
 # I like
 
 - Running
-- Skiing
-- Sailing and the sea
 - Space
 - Summer
+- Elon Musk
 - [Books](https://www.goodreads.com/dheerajinampudi)
 
 # Origin
@@ -87,7 +85,7 @@ new capabilities within the company.
 
 # Fun facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
+- I have a long list of ideas, such as making TV streaming events for Analytics
 
 # I dream of
 

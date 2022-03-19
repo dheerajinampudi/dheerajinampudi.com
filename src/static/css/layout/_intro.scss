@@ -20,6 +20,20 @@
 				display: block;
 			}
 		}
+		
+		.certifications {
+			border-bottom: 0;
+			display: inline-block;
+			margin: 0 0 (_size(element-margin) * 0.8) 0;
+			overflow: hidden;
+			position: relative;
+
+			img {
+				width: 10em;
+				border-radius: 80%;
+				display: block;
+			}
+		}
 
 		header {
 			h2 {
@@ -57,6 +71,10 @@
 
 			.logo {
 				margin: 0 0 (_size(element-margin) * 0.25) 0;
+			}
+
+			.certifications {
+				margin: 0 0 (_size(element-margin) * 0.50) 0;
 			}
 
 			header {

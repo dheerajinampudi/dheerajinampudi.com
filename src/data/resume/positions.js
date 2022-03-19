@@ -83,7 +83,7 @@ const positions = [
         'Generated reports using Tableau.',
     ],
   },
-  {
+ /*  {
     company: 'teamR.com',
     position: 'Founder',
     link: '#',
@@ -92,7 +92,7 @@ const positions = [
       '=======',
       '======',
     ],
-  },
+  }, */
 ];
 
 export default positions;

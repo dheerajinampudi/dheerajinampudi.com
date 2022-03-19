@@ -3,7 +3,7 @@ const degrees = [
     school: 'University of Manchester, The U.K.',
     degree: 'M.Sc Applied Mathematics',
     link: 'https://manchester.ac.uk',
-    year: 2016,
+    year: 2015,
   },
   {
     school: 'Adikavi Nannaya University, India',

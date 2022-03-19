@@ -12,9 +12,12 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpeg`} alt="" />
       </Link>
       <header>
-        <h2>Dheeraj&apos;Inampudi</h2>
+        <h2>Dheeraj Inampudi</h2>
         <p><a href="mailto:irk.dheeraj@gmail.com">irk.dheeraj@gmail.com</a></p>
       </header>
+{/*       <Link to="/"  className="certifications">
+        <img src={`${PUBLIC_URL}/images/AWS_combined_2.jpg`} alt="" />
+      </Link> */}
     </section>
 
     <section className="blurb">
@@ -34,7 +37,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Dheeraj&apos;Inampudi <Link to="/">dheerajinampudi.com</Link>.</p>
+      <p className="copyright">&copy; Dheeraj Inampudi <Link to="/">dheerajinampudi.com</Link>.</p>
     </section>
   </section>
 );
