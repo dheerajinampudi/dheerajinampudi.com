@@ -94,8 +94,10 @@ new capabilities within the company.
 - doing better.
 - you not checking the commit history for earlier drafts of this file.
 
-# Websites from people I admire
+<!-- # Websites from people I admire
 
-- [Alex Peysakhovich](http://alexpeys.github.io/)
+- [Alex Peysakhovich](http://alexpeys.github.io/) -->
 
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.
+- If we are friends and you feel like you belong on this list,
+you're probably right. I'm sorry I forgot about you.
+Pester me and I;ll add you.

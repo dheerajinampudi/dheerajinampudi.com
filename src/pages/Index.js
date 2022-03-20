@@ -13,8 +13,9 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About Me</Link></h2>
           <p>
-          Dheeraj Inampudi's personal website. India based Manchester Math graduate, 
-          CTO of propellor.ai, and a certified AWS Solution Architect
+          My name is Dheeraj Inampudi.I appreciate the visit. 👍 I am currently
+          the CTO of <a href={'https://propellor.ai/'} target="_blank" > Propellor.ai. </a>
+          I am professional certified AWS Solution Architect.
           </p>
         </div>
       </header>
@@ -25,6 +26,14 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         read my <a href={'https://blog.dheerajinampudi.com/'} target="_blank" > Blog </a>,
         or <Link to="/contact">contact</Link> me.
+      </p>
+      <p>
+        <a href='https://www.credly.com/badges/5595c35e-1310-4b86-bd0c-2f408939512a'>
+        <img src='images/AWS_pro_badge_2.png' width="150" height="150"></img>
+        </a>
+        <a href='https://www.credly.com/badges/64defbb6-9d3d-4d33-b54f-9546fa54cf3c'>
+        <img src='images/AWS_Associate_Badge.png' width="150" height="150"></img>
+        </a>
       </p>
       
     </article>

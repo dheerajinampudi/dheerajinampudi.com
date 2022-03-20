@@ -22,11 +22,12 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos; Dheeraj. I like building things.
-        I am a <a href="https://www.manchester.ac.uk/">Manchester Math</a> graduate and
-        the CTO of <a href="https://propellor.ai">Propellor.ai</a>. Before Propellor I was
-        at <a href="https://thinkbumbeleebee.com">Thinkbumbelee Analytics (Propellor)</a>
-        , <a href="https://stratfit.net">Stratfit Fitness Technologies</a>
+      <p> I like to share thoughts and stories about programming, 
+        product management, leadership and productivity. 
+        I am the CTO of <a href="https://propellor.ai"> Propellor.ai</a>
+        and a <a href="https://www.manchester.ac.uk/"> Manchester Math graduate </a>.
+        I worked at  <a href="https://thinkbumbeleebee.com"> Thinkbumbelee Analytics</a> and 
+        <a href="https://stratfit.net"> Stratfit Fitness Technologies</a> before joining Propellor.
       </p>
       <ul className="actions">
         <li>
