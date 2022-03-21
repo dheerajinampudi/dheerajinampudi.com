@@ -1,3 +1,5 @@
+// projects is commented here and in app.js 
+
 const routes = [
   {
     index: true,
@@ -12,10 +14,10 @@ const routes = [
     label: 'Resume',
     path: '/resume',
   },
-  {
+/*   {
     label: 'Projects',
     path: '/projects',
-  },
+  }, */
   {
     label: 'Stats',
     path: '/stats',

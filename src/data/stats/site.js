@@ -9,7 +9,8 @@ const data = [
     label: 'Last updated at',
     key: 'pushed_at',
     link: 'https://github.com/dheerajsharma21/dheerajinampudi.com.git',
-    format: (x) => dayjs(x).format('MMMM DD, YYYY'),
+   //  x : new DateTime(2009, 8, 28),
+    format: (x) => dayjs('2021-02-19').format('DD/MM/YYYY'),
   },
 ];
 
