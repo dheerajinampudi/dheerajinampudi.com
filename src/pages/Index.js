@@ -13,18 +13,19 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About Me</Link></h2>
           <p>
-          My name is Dheeraj Inampudi.I appreciate the visit. 👍 I am currently
+          My name is Dheeraj Inampudi. I am currently
           the CTO of <a href={'https://propellor.ai/'} target="_blank" > Propellor.ai. </a>
-          I am professional certified AWS Solution Architect.
+          I am also a professional certified AWS Solution Architect.
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        read my <a href={'https://blog.dheerajinampudi.com/'} target="_blank" > Blog </a>,
+      <p> Welcome to my website. I appreciate the visit. 👍
+        Please feel free to read more <Link to="/about">about me</Link>,
+        or you can check out my 
+        {' '} <Link to="/resume">resume</Link>, 
+        {' '} <Link to="/projects">projects</Link>, 
+        {' '} view <Link to="/stats">site statistics</Link>, 
+        {' '} read my <a href={'https://blog.dheerajinampudi.com/'} target="_blank" > Blog </a>,
         or <Link to="/contact">contact</Link> me.
       </p>
       <p>
