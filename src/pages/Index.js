@@ -30,10 +30,10 @@ const Index = () => (
       </p>
       <p>
         <a href='https://www.credly.com/badges/5595c35e-1310-4b86-bd0c-2f408939512a'>
-        <img src='images/AWS_pro_badge_2.png' width="150" height="150"></img>
+        <img src='images/SAP.png' width="150" height="150"></img>
         </a>
         <a href='https://www.credly.com/badges/64defbb6-9d3d-4d33-b54f-9546fa54cf3c'>
-        <img src='images/AWS_Associate_Badge.png' width="150" height="150"></img>
+        <img src='images/SAA.png' width="150" height="150"></img>
         </a>
       </p>
       

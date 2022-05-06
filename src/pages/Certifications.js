@@ -19,11 +19,12 @@ const Contact = () => (
     <div>
     <h2>Official Badges</h2>
     <p> 
-        <a href='https://www.credly.com/badges/5595c35e-1310-4b86-bd0c-2f408939512a'>
-        <img src='images/AWS_pro_badge_2.png' width="150" height="150"></img>
+        <a href='https://www.credly.com/badges/5595c35e-1310-4b86-bd0c-2f408939512a' 
+        className="image__fit">
+        <img src='images/SAP.png' width="150" height="150"></img>
         </a>
         <a href='https://www.credly.com/badges/64defbb6-9d3d-4d33-b54f-9546fa54cf3c'>
-        <img src='images/AWS_Associate_Badge.png' width="150" height="150"></img>
+        <img src='images/SAA.png' width="150" height="150"></img>
         </a>
         <a href='https://www.credly.com/badges/d2dc2883-3cb2-4e01-bde7-4c500d7799e2/public_url'>
         <img src='images/SAS_cred.png' width="150" height="150"></img>
@@ -32,14 +33,16 @@ const Contact = () => (
       <h2>Online Certifications</h2>
       <p>
       </p>
-      <h3>AWS Courses</h3>
-      <p>
+      <h3>AWS</h3>
+      
         {/*  AWS Certified Solutions Architect Professional SAP-C01  */}
-        <a href='https://www.udemy.com/certificate/UC-71863b8b-634c-4083-9893-65354e020cc9/'>
+        <a 
+        href='https://www.udemy.com/certificate/UC-71863b8b-634c-4083-9893-65354e020cc9/'
+        className="image">
         <img src='images/Udemy_1.jpeg' width="413" height="319"></img>
         </a>
-        </p>
-      <h3>Data Science Courses</h3>
+        
+      <h3>Data Science</h3>
       <p>
         {/*Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization */}
         <a href='https://coursera.org/share/a08f0906e4d74a3ddd4d8a12bf9fc190'>

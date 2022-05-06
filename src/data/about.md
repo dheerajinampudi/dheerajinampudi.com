@@ -17,7 +17,7 @@ where I learnt about product development and algorithm development for real-worl
 
 # Currently
 
-I am the CTO of Propellor.ai. My major responsiblities includes the following
+I am the CTO at Propellor.ai. My major responsibilities includes the following
 
 ## Platform and Product responsibilites
 
@@ -67,9 +67,9 @@ build, test, and release software/products/platforms faster and in a more reliab
 
 ## Technology Partnerships
 
-- Develop Technology partnerships e.g. AWS, Domo, Segment, Databricks et al. Drive the
-adoption of new technology across the Company. Leverage these relationships in building
-new capabilities within the company.
+-Develop technology collaborations with companies such as
+AWS, Domo, Segment, Databricks, and others. Encourage the company's adoption
+of innovative technologies. Use these connections to help the organisation develop new capabilities.
 
 # I like
 

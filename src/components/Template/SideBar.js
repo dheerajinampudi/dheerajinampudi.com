@@ -9,7 +9,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpeg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
         <h2>Dheeraj Inampudi</h2>
@@ -23,7 +23,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p> I like to share thoughts and stories about programming, 
-        product management, leadership and productivity. 
+        product management and leadership.
         I am the CTO of <a href="https://propellor.ai"> Propellor.ai </a>
         and a <a href="https://www.manchester.ac.uk/"> Manchester Math graduate </a>.
         I worked at  <a href="https://thinkbumbeleebee.com"> Thinkbumbelee Analytics </a> and 

@@ -30,6 +30,10 @@ const routes = [
     label: 'Contact',
     path: '/contact',
   },
+  /* {
+    label: 'Blog',
+    path: '/Blog',
+  }, */
   
 ];
 
