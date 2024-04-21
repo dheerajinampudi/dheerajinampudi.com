@@ -14,8 +14,7 @@ const Index = () => (
           <h2 data-testid="heading"><Link to="/">About Me</Link></h2>
           <p>
           My name is Dheeraj Inampudi. I am currently
-          the CTO of <a href={'https://propellor.ai/'} target="_blank" > Propellor.ai. </a>
-          I am also a professional certified AWS Solution Architect.
+          the Head of Product at <a href={'https://circuitry.ai/'} target="_blank" > Circuitry.ai. </a>
           </p>
         </div>
       </header>

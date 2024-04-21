@@ -1,12 +1,14 @@
 
 # Intro
 
-- Hello there! My name is Dheeraj, and I adore creating things on Amazon Web Services. My fascination with
-AWS began when, as part of my Master's thesis at the University of Manchester in 2014, I conducted a matlab simulation on EC2.
-- Fast forward to present, and I am the CTO of Propellor.ai, an analytics product company.
-Prior to this, I had the pleasure of working for 3+years as a data scientist at a fitness startup,
+- Hello there! My name is Dheeraj, and I adore creating Data SaaS products on AWS. My fascination with
+Data began when, as part of my Master's thesis at the University of Manchester in 2014, I conducted a matlab simulation.
+- Fast forward to present, I am Head of Product Engineering at Circuitry.ai
+Prior to this, I am the CTO of Propellor.ai, an analytics product company.
+I also had the pleasure of working for 3+years as a data scientist at a fitness startup,
 building training algorithms and establishing up analytics procedures.
-- We use roughly 42 AWS services at Propellor to keep our system up and operating.
+- At Circuitry, we use more LLMs and Fine-tuned models for developing our product
+- We used roughly 42 AWS services at Propellor to keep our system up and operating.
 - I am a certified AWS Professional solution architect.
 - I worked on 16+ different data science projects as a Data Scientist in several domain areas such as QSR, IoT, Social Media, and Retail.
 - I also worked at Stratfit as a product manager and associate engineer,
@@ -17,7 +19,7 @@ where I learnt about product development and algorithm development for real-worl
 
 # Currently
 
-I am the CTO at Propellor.ai. My major responsibilities includes the following
+I am the Head of Product Engineering at Circuitry.ai, CTO at Propellor.ai before. My major responsibilities includes the following
 
 ## Platform and Product responsibilites
 

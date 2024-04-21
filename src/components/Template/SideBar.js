@@ -22,12 +22,13 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p> I like to share thoughts and stories about programming, 
-        product management and leadership.
-        I am the CTO of <a href="https://propellor.ai"> Propellor.ai </a>
+      <p> I like to share thoughts and stories about programming, Data Science, SaaS
+        product management, leadership, mental models and Physics.
+        I am currrently Head of Product Engineering at <a href="https://circuitry.ai"> Circuitry.ai </a>
+        Previously CTO of <a href="https://propellor.ai"> Propellor.ai (Acquired by WebEngage) </a>
         and a <a href="https://www.manchester.ac.uk/"> Manchester Math graduate </a>.
-        I worked at  <a href="https://thinkbumbeleebee.com"> Thinkbumbelee Analytics </a> and 
-        <a href="https://stratfit.net"> Stratfit Fitness Technologies</a> before joining Propellor.
+        I also worked at  <a href="https://thinkbumbeleebee.com"> Thinkbumbelee Analytics </a> and 
+        <a href="https://stratfit.net"> Stratfit Fitness Technologies</a> before becoming a CTO Propellor.
       </p>
       <ul className="actions">
         <li>

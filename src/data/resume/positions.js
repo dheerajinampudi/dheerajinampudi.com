@@ -1,9 +1,21 @@
 const positions = [
   {
+    company: 'Circuitry.ai',
+    position: 'Head of product Engineer',
+    link: 'https://circuitry.ai/',
+    daterange: 'Jan 2024 - Present',
+    points: [
+      'Oversee the product engineering team, fostering a culture of innovation and excellence.',
+      'Lead the development and implementation of advanced AI solutions, including machine learning models and large language models (LLMs), to enhance decision-making in manufacturing.',
+      'Collaborate closely with cross-functional teams to ensure the delivery of high-quality, impactful products.',
+      'Drive strategic initiatives and contribute to the overall growth and success of Circuitry.ai.'
+    ],
+  },
+  {
     company: 'Propellor.ai',
     position: 'C.T.O.',
     link: 'https://propellor.ai',
-    daterange: 'April 2019 - Present',
+    daterange: 'April 2019 - Dec 2023',
     points: [
       'Building technology capabilities, platforms and products for the Company Thinkbumblebee.',
       'Engineering Oversee the day-to-day engineering efforts of the company targeted towards building capabilities, platforms and products for ThinkBumblebee and its product Propellor.ai',
