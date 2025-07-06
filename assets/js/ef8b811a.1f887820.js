@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_portfolio=self.webpackChunkmy_portfolio||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Dheeraj Inampudi","title":"AI Enthusiast","url":"https://dheerajinampudi.com","imageURL":"https://avatars.githubusercontent.com/u/13706632?v=4","key":"dheeraj","page":null,"count":0}]}')}}]);
